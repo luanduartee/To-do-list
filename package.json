@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Projeto Sapatin Desafio 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Luan Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
