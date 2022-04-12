@@ -16,5 +16,6 @@
 -Instale as determinadas depêndencias(bibliotecas) para que o projeto funcione e rode no MongoDB: 
   $ npm i express
   $ npm i mongoose
+  
 3- Após seguir os passos anteriores, dê inicio ao seu projeto no terminal usando o comando: 
   $ npm run dev
