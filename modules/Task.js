@@ -8,11 +8,11 @@ const taskSchema = new mongoose.Schema({
   },
   check: {
     type: Boolean,
-    require: true,
+    default: false,
   },
   date: {
     type: Date,
-    defaut: Date.now(),
+    default: Date.now(),
   },
 });
 
