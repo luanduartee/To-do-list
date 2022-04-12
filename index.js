@@ -14,6 +14,6 @@ app.use(routes);
 
 // local que vai abrir no navegador
 app.listen(port, () =>
-  console.log("Servidor rodando em http://localhost:${port}")
+  console.log("Servidor rodando em http://localhost:3000")
 );
 
